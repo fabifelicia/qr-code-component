@@ -31,5 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Frontend Mentor - [@fabifelicia](https://www.frontendmentor.io/profile/fabifelicia)
 
 
+[![CodeFactor](https://www.codefactor.io/repository/github/fabifelicia/qr-code-component/badge)](https://www.codefactor.io/repository/github/fabifelicia/qr-code-component)
 
 
